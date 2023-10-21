@@ -1,6 +1,4 @@
-                                                             # SchoolManagement
-# DonorPool_Webapp
-# How to run the application
+# SchoolManagement
 To start the application on our local server, simply run this command using the VS code command line (or any command line).
 
 ```bash
